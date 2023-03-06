@@ -15,6 +15,13 @@ public class Main {
         a.callme();
         a.callmetoo();
 
+        A aTest = new A() {
+            @Override
+            void callme() {
+                System.out.println("sth");
+            }
+        };
+
 //      compile-time error
 //      A abst = new A();
 
@@ -30,5 +37,7 @@ public class Main {
 
         System.out.println(Arrays.toString(args));
 
+        DefaultModifierClass defaultModifierClass = new DefaultModifierClass();
+        defaultModifierClass.sth();
     }
 }

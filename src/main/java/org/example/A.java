@@ -1,6 +1,8 @@
 package org.example;
 
 public abstract class A {
+
+    private int varA = 0;
     abstract void callme();
 
     void callmetoo() {
