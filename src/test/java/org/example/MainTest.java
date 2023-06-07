@@ -21,4 +21,25 @@ public class MainTest {
         Product nextPurchase = productsByName.get("Car");
         assertNull(nextPurchase);
     }
+
+    public static void main(String[] args) {
+        TestA testA = new TestA();
+        TestA testA1 = new TestB();
+
+        TestB testB = new TestB();
+//        TestB testB1 = new TestA();  ERROR!!!!!
+
+        testA.run();
+        testA1.run();
+        testB.run();
+
+
+        TestA.hid();
+        TestB.hid();
+
+        TestB.hid(2);
+
+        TestB.test();
+        TestA.test();
+    }
 }
