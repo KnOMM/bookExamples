@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3b0dda4-9f48-415f-bd7e-ad7ec3e5a263" name="Changes" comment="Annotations">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/SimpleExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/streams/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/annotations/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/annotations/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="1654e112-5566-41a3-9a87-ab0bcdcefd0c" />
+        <option name="url" value="https://github.com/KnOMM/HashMapExample.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2MTPowbg6yPyFyww1wibLZ3n8rU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/38098/OneDrive/Materials/Java/uni/ics0014-spring2023-project/uni-project/pom.xml&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.io.SimpleExample">
+    <configuration name="EnumConst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumerations.EnumConst" />
+      <module name="HashMapExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumerations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="streams.Main" />
+      <module name="HashMapExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumerations.SimpleExample" />
+      <module name="HashMapExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="enumerations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="annotations.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="annotations.Main" />
+      <module name="HashMapExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="annotations.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="io.SimpleExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="io.SimpleExample" />
+      <module name="HashMapExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.io.SimpleExample" />
+        <item itemvalue="Application.annotations.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EnumConst" />
+        <item itemvalue="Application.SimpleExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3b0dda4-9f48-415f-bd7e-ad7ec3e5a263" name="Changes" comment="" />
+      <created>1677788782767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677788782767</updated>
+      <workItem from="1677788783976" duration="3585000" />
+      <workItem from="1677920279499" duration="2463000" />
+      <workItem from="1677932211290" duration="956000" />
+      <workItem from="1678011136917" duration="1008000" />
+      <workItem from="1678102247018" duration="721000" />
+      <workItem from="1678111049953" duration="2975000" />
+      <workItem from="1678398184245" duration="6000" />
+      <workItem from="1678464069712" duration="880000" />
+      <workItem from="1678478180684" duration="11000" />
+      <workItem from="1678741124867" duration="921000" />
+      <workItem from="1678781119154" duration="3612000" />
+      <workItem from="1678904775139" duration="3306000" />
+      <workItem from="1679320366402" duration="5694000" />
+      <workItem from="1679561123897" duration="39000" />
+      <workItem from="1679673138669" duration="7763000" />
+      <workItem from="1679824547876" duration="93000" />
+      <workItem from="1679831593684" duration="7085000" />
+      <workItem from="1679902299495" duration="217000" />
+      <workItem from="1680351275894" duration="3070000" />
+      <workItem from="1680501258161" duration="100000" />
+      <workItem from="1680503182789" duration="6000" />
+      <workItem from="1680503281630" duration="225000" />
+      <workItem from="1681479377876" duration="5565000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1677932465076</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677932465076</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit">
+      <created>1677932492382</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677932492382</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <created>1678119438291</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678119438291</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Annotations">
+      <created>1680351373099</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680351373099</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <MESSAGE value="Annotations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Annotations" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/functionalProgramming/FunctionalInt.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
